@@ -11,8 +11,10 @@ Based on work from:
 
 ## Getting Started
 
-1. Run
+1. Change your shell to `zsh` through macOS:
+
 ```
+chsh -s /bin/zsh
 ./start.sh
 ```
 
