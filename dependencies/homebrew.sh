@@ -12,6 +12,7 @@ echo "--- Upgrading Homebrew ---"
 brew upgrade
 
 brew tap homebrew/cask-versions
+brew tap homebrew/cask-drivers
 brew tap homebrew/bundle
 brew tap homebrew/cask-fonts
 
@@ -48,6 +49,7 @@ casks=(
   leech
   muzzle
   mysides
+  philips-hue-sync
   qlcolorcode
   qlmarkdown
   qlprettypatch
@@ -55,8 +57,10 @@ casks=(
   quicklook-csv
   quicklook-json
   scriptql
+  sonos
   suspicious-package
   transmit
+  ubiquiti-unifi-controller
   viscosity
   vlc
   webpquicklook

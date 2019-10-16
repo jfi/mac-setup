@@ -23,3 +23,4 @@ mas install 462058435 # Microsoft Excel
 mas install 1384080005 # Tweetbot 3
 mas install 641027709 # Color Picker
 mas install 975937182 # Fantastical
+mas install 1272768911 # Keep It

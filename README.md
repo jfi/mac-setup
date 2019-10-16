@@ -49,6 +49,7 @@ chsh -s /bin/zsh
 * Fantastical
 * Firefox
 * Google Chrome
+* Keep It
 * Keynote
 * last.fm
 * Leech
@@ -62,16 +63,19 @@ chsh -s /bin/zsh
 * OmniGraffle
 * OneDrive
 * Pages
+* Philips Hue Sync
 * Reeder
 * Sequel Pro
 * Skype for Business
 * Slack
+* SONOS Controller
 * TextMate
 * The Unarchiver
 * Transmit
 * Trello
 * Tweetbot
 * Ulysses
+* UniFi Network Controller
 * Viscosity
 * VLC
 * Zoom
