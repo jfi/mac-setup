@@ -71,6 +71,7 @@ chsh -s /bin/zsh
 * Trello
 * Tweetbot
 * Ulysses
+* Viscosity
 * VLC
 * Zoom
 
