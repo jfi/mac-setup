@@ -11,17 +11,17 @@ Based on work from:
 
 ## Getting Started
 
-1. Change your shell to `zsh` through macOS:
+1. Change your shell to `zsh` through macOS, and run the first script to do the machine setup:
 
 ```
 chsh -s /bin/zsh
 ./start.sh
 ```
 
-2. Then, you have to re-run the script because of some weirdness with `oh-my-zsh` setup changing shell. I'll fix this at some point:
+2. Then run the script that installs everything:
 
 ```
-./start.sh
+./go.sh
 ```
 
 ## What does this install?
