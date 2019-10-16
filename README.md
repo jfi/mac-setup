@@ -31,8 +31,9 @@ chsh -s /bin/zsh
 * Sets hostname
 * oh-my-zsh
 * Homebrew
-* Ruby 2.6.3
+* Ruby 2.6.5
 * MariaDB 10.2
+* PostgreSQL
 * Creates `~/Projects` folder
 * IR_Black theme for Terminal and TextMate
 
