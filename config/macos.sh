@@ -131,8 +131,9 @@ defaults write com.apple.finder WarnOnEmptyTrash -bool false
 chflags nohidden ~/Library
 
 # Add ~/ and ~/Projects directories to Finder sidebar
-mysides add james file:///Users/james
-mysides add projects file:///Users/james/Projects
+mkdir -p ~/Projects
+mysides add James file:///Users/james
+mysides add Projects file:///Users/james/Projects
 
 # Restart Finder
 killall Finder
