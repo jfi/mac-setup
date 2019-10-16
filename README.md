@@ -18,6 +18,12 @@ chsh -s /bin/zsh
 ./start.sh
 ```
 
+2. Then, you have to re-run the script because of some weirdness with `oh-my-zsh` setup changing shell. I'll fix this at some point:
+
+```
+./start.sh
+```
+
 ## What does this install?
 
 ### Environment
