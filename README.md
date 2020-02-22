@@ -11,10 +11,9 @@ Based on work from:
 
 ## Getting Started
 
-1. Change your shell to `zsh` through macOS, and run the first script to do the machine setup:
+1. Change your shell to `zsh` through macOS (default in 10.15), and run the first script to do the machine setup:
 
 ```
-chsh -s /bin/zsh
 ./start.sh
 ```
 
