@@ -49,13 +49,13 @@ casks=(
   leech
   muzzle
   mysides
-  philips-hue-sync
   qlcolorcode
   qlmarkdown
   qlprettypatch
   qlstephen
   quicklook-csv
   quicklook-json
+  rubymine
   scriptql
   sonos
   suspicious-package

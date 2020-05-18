@@ -62,12 +62,12 @@ Based on work from:
 * OmniGraffle
 * OneDrive
 * Pages
-* Philips Hue Sync
 * Reeder
+* RubyMine
 * Sequel Pro
-* Skype for Business
 * Slack
 * SONOS Controller
+* TablePlus
 * TextMate
 * The Unarchiver
 * Transmit
