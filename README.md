@@ -1,6 +1,8 @@
 # Mac Setup
 
-A bundle of scripts I use to setup a new Mac.
+A bundle of scripts I use to setup a new Mac. 
+
+**Update, 2023-10-09: This hasn't been used properly since 10.15, but I still grab bits of this occasionally. I'll probably update it once 14.0 hits GM.**
 
 Based on work from:
 
